@@ -9,6 +9,7 @@ This project tries to detect structural damages (stiffness reduce) of a four flo
 >frame_data - matlab codes for data generation
 >
 >frame_test.ipynb - Colab file for training and testing
+>
 >For data to train FCN, please run matlab codes data_generation.m in frame_data folder.
 
 ## Simulation
